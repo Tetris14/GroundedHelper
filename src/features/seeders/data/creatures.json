@@ -1,0 +1,15 @@
+{
+  "creatures": [
+    {
+      "name": "Aphid",
+      "type": "Armless",
+      "health": 12,
+      "ressources": [
+        {"quantity": 1, "name":"Raw Aphid Meat"}
+      ],
+      "biomes": [
+        "Grasslands"
+      ]
+    }
+  ]
+}

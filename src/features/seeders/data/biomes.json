@@ -1,0 +1,52 @@
+{
+  "biomes": [
+    {
+      "name": "Grasslands",
+      "categories": [
+        "Biomes",
+        "Surface Biomes"
+      ],
+      "unique_ressources": [
+        "Rotten Equipment",
+        "Mint Shard"
+      ]
+    },
+    {
+      "name": "Red Anthill",
+      "categories": [
+        "Biomes",
+        "Cave Biomes"
+      ],
+      "unique_ressources": [
+        "Red Ant Egg",
+        "Red Ant Queen Chunk",
+        "Red Ant Queen Head",
+        "Red Ant Queen Pheromone",
+        "Rotten Equipment"
+      ]
+    },
+    {
+      "name": "Old Anthill",
+      "categories": [
+        "Biomes",
+        "Cave Biomes"
+      ],
+      "unique_ressources": []
+    },
+    {
+      "name": "Black Anthill",
+      "categories": [
+        "Biomes",
+        "Cave Biomes"
+      ],
+      "unique_ressources": [
+        "Brittle Quartzite Shard",
+        "Brittle Marble Shard",
+        "Black Ant Egg",
+        "Black Ant Queen Chunk",
+        "Black Ant Queen Head",
+        "Black Ant Queen Pheromone"
+      ]
+    }
+  ]
+}
